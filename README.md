@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SAP project(Trip estimator)**
+- 🔭 I’m an undergraduate student at Amrita Vishwa Vidyapeetham , coimbatore **
 
-- 🌱 I’m currently learning **nodejs,haskell,**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [github.com/Likithasowji-500k](github.com/Likithasowji-500k)
 
