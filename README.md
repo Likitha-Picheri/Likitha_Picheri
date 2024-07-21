@@ -9,7 +9,7 @@
 <h3 align="center">I'm a dedicated software engineer with a robust foundation in computer science a. My interests span across Machine Learning, Cpmputer Security, networks  and data Science. I thrive on using a diverse array of programming languages and tools to tackle complex challenges and craft innovative solutions. My enthusiasm for technology drives me to continually explore new areas and push the boundaries of what's possible in software development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likithasowji-500k&label=Profile%20views&color=0e75b6&style=flat" alt="likithasowji-500k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likithasowji-500k" alt="likithasowji-500k" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
