@@ -1,3 +1,8 @@
+<a><img scr="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></a>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="350" />
+</div>
 <h1 align="center">Hi 👋, I'm Picheri Likitha</h1>
 <h3 align="center">A passionate Software Enginner</h3>
 
